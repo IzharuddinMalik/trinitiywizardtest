@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="route_host">route host</string>
+
+    <string name="root_route">app://izharuddin1997.com/root</string>
+    <string name="home_route">app://izharuddin1997.com/home?destination={destination}</string>
+    <string name="detail_contact_route">app://izharuddin1997.com/detailcontact?id={id}</string>
+</resources>
